@@ -1,4 +1,4 @@
-package co.janitra.mdcalculator;
+package co.janitra.calculatormaterialdesign;
 
 import org.junit.Test;
 
